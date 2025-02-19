@@ -44,7 +44,7 @@ BizPlanAI is an advanced AI-powered tool designed to help entrepreneurs, startup
    ```
 2. Run the application:
    ```bash
-   python bizplanai-rag-agent.py
+   python bizplanai_rag_agent.py
    ```
 
 ---
@@ -54,7 +54,7 @@ BizPlanAI is an advanced AI-powered tool designed to help entrepreneurs, startup
 ### Interactive Mode
 Run the script and interact with BizPlanAI in your terminal:
 ```bash
-python bizplanai-rag-agent.py
+python bizplanai_rag_agent.py
 ```
 
 #### Example Queries:
