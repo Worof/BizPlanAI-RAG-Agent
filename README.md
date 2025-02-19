@@ -86,7 +86,7 @@ print(response)
 - **DeepSeek-7B**: A powerful language model fine-tuned for business analysis.
 - **FAISS**: Efficient vector search for document retrieval.
 - **Sentence Transformers**: Text embeddings for semantic search.
-- **BitsAndBytes**: 4-bit quantization for memory efficiency.
+- **BitsAndBytes**: 4-bit quantization for memory efficiency. ```commented for now until possible to use this feature```
 
 ### Architecture
 1. **Input Processing**: User queries are analyzed for complexity and context.
