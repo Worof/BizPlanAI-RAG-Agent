@@ -97,21 +97,6 @@ print(response)
 
 ---
 
-## 📂 Repository Structure
-
-```
-BizPlanAI/
-├── bizplanai.py            # Main application script
-├── requirements.txt        # Dependency list
-├── README.md               # This file
-├── docs/                   # Additional documentation
-│   ├── business_docs/      # Sample business knowledge base
-│   └── usage_guide.md      # Detailed usage instructions
-└── tests/                  # Unit and integration tests
-    └── test_bizplanai.py
-```
-
----
 
 ## 📈 Performance
 
@@ -125,22 +110,14 @@ BizPlanAI/
 
 We welcome contributions! Here's how you can help:
 1. **Report Issues**: Open an issue for bugs or feature requests.
-2. **Submit Pull Requests**: Follow the [contribution guidelines](CONTRIBUTING.md).
-3. **Improve Documentation**: Help us make the docs better.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+2. **Improve Documentation**: Help us make the docs better.
 
 ---
 
 ## 📞 Contact
 
 For questions or support, please open an issue or contact:
-- **Email**: support@bizplanai.com
-- **Twitter**: [@BizPlanAI](https://twitter.com/BizPlanAI)
+- **LinkedIn**: [@Worof](https://www.linkedin.com/in/worof-%F0%9F%87%B5%F0%9F%87%B8-a8301b215/)
 
 ---
 
