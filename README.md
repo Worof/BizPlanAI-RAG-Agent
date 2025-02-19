@@ -39,18 +39,12 @@ BizPlanAI is an advanced AI-powered tool designed to help entrepreneurs, startup
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/BizPlanAI.git
-   cd BizPlanAI
+   git clone https://github.com/yourusername/BizPlanAI-RAG-Agent.git
+   cd BizPlanAI-RAG-Agent
    ```
-
-2. Install dependencies:
+2. Run the application:
    ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the application:
-   ```bash
-   python bizplanai.py
+   python bizplanai-rag-agent.py
    ```
 
 ---
@@ -60,7 +54,7 @@ BizPlanAI is an advanced AI-powered tool designed to help entrepreneurs, startup
 ### Interactive Mode
 Run the script and interact with BizPlanAI in your terminal:
 ```bash
-python bizplanai.py
+python bizplanai-rag-agent.py
 ```
 
 #### Example Queries:
