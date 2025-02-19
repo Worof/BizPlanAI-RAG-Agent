@@ -11,7 +11,6 @@
 # BizPlanAI: AI-Powered Business Plan Consultant 🤖📈
 
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Hugging Face](https://img.shields.io/badge/Model-DeepSeek--7B-orange)
 ![RAG](https://img.shields.io/badge/Features-RAG%20Enabled-brightgreen)
 
